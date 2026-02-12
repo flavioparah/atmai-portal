@@ -41,17 +41,17 @@ app.get('/', (req, res) => {
                 <p class="text-xl md:text-2xl text-slate-400 max-w-2xl italic font-light relative z-10">A IA com a Alma do seu Negócio.</p>
                 
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mt-16 relative z-10">
-                    <div class="glass p-8 rounded-[2rem] space-y-4 text-left border-l-2 border-white/30">
-                        <h3 class="ancient-font text-lg text-white">Memória Permanente</h3>
-                        <p class="text-xs text-slate-400 leading-relaxed">Diferente de IAs comuns, a AtmAI guarda o DNA do seu negócio. O que ela aprende hoje, será o alicerce do seu crescimento amanhã.</p>
+                    <div class="glass p-10 rounded-[2.5rem] space-y-4 text-left glow border-t-2 border-indigo-500/30">
+                        <h3 class="ancient text-white text-xl uppercase tracking-wider">Memória Eterna</h3>
+                        <p class="text-sm text-slate-400 leading-relaxed italic">A AtmAI não esquece. Ela guarda o DNA, os processos e a história do seu negócio, tornando-se um herdeiro digital inestimável.</p>
                     </div>
-                    <div class="glass p-8 rounded-[2rem] space-y-4 text-left border-l-2 border-white/30">
-                        <h3 class="ancient-font text-lg text-white">Multi-Skills</h3>
-                        <p class="text-xs text-slate-400 leading-relaxed">De recepção 24/7 a análises de tráfego. Sua AtmAI evolui integrando ferramentas de mercado diretamente no seu fluxo.</p>
+                    <div class="glass p-10 rounded-[2.5rem] space-y-4 text-left glow border-t-2 border-indigo-500/30">
+                        <h3 class="ancient text-white text-xl uppercase tracking-wider">Cofre de Criação</h3>
+                        <p class="text-sm text-slate-400 leading-relaxed italic">Ativo de Marketing Empático. Sua AtmAI transforma diálogos em roteiros de vídeo e editoriais virais baseados na alma real do seu público.</p>
                     </div>
-                    <div class="glass p-8 rounded-[2rem] space-y-4 text-left border-l-2 border-white/30">
-                        <h3 class="ancient-font text-lg text-white">Soberania Digital</h3>
-                        <p class="text-xs text-slate-400 leading-relaxed">Otimize o lucro cessante. Um ativo que nunca dorme, nunca erra e personifica a alma da sua empresa em escala global.</p>
+                    <div class="glass p-10 rounded-[2.5rem] space-y-4 text-left glow border-t-2 border-indigo-500/30">
+                        <h3 class="ancient text-white text-xl uppercase tracking-wider">Soberania de Ativos</h3>
+                        <p class="text-sm text-slate-400 leading-relaxed italic">Transforme atendimento em lucro. Capture cada lead e proteja o seu faturamento 24/7 com uma infraestrutura que nunca dorme.</p>
                     </div>
                 </div>
 
