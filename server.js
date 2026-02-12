@@ -1,7 +1,7 @@
 const express = require('express');
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 const app = express();
-const port = 3000;
+const port = 8080;
 
 // Substitua pela sua chave do Gemini ou use variáveis de ambiente
 const genAI = new GoogleGenerativeAI("SUA_API_KEY_AQUI");
